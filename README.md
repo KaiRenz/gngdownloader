@@ -2,7 +2,7 @@
 
 Setup downloader and mover for Grid and Go setups. This is an unofficial tool, no relation to Grid and Go.
 
-> :warning: I'm not a professional coder - this code works but it can definately be inproved. I take no responsibility for its use.
+> :warning: I'm not a professional coder - this code works but it can definately be improved. I take no responsibility for its use.
 
 ## Description
 
@@ -33,6 +33,8 @@ Default behaviour: Download and move the setups to the provided iRacing setup fo
 There is a config.ini file where you specifiy your GNG account details and paths. 
 
 There is also a block called SERIES where you can select the series the tool will download the setups for. By default, all series are set to true, if you don't want one you can just set them to false.
+
+If you only want to download the setups but not move them, set MoveToSetupFolder = false.
 
 ### Executing program
 
