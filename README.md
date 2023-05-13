@@ -2,7 +2,7 @@
 
 Setup downloader and mover for Grid and Go setups. This is an unofficial tool, no relation to Grid and Go.
 
-> :warning: I'm not a professional coder - this code works but it can definately be improved. I take no responsibility for its use.
+> :warning: I'm not a professional coder - this code works but it can definitely be improved. I take no responsibility for its use.
 
 ## Description
 
